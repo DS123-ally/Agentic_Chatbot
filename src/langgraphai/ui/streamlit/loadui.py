@@ -51,7 +51,7 @@ class LoadStreamlitUI:
                 tavily_key = st.text_input("TAVILY API Key", type="password")
 
                 if tavily_key:
-                    os.environ["TAVILY_API_KEY"] = tavily_key   # ✅ FIX
+                    os.environ["TAVILY_API_KEY"] = tavily_key   
                     st.session_state["TAVILY_API_KEY"] = tavily_key
                     self.user_controls["TAVILY_API_KEY"] = tavily_key
                 else:
