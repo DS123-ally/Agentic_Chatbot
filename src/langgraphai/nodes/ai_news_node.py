@@ -34,7 +34,7 @@ class AINewsNode:
             topic="news",
             time_range=time_range_map[frequency],
             include_answer="advanced",
-            max_result=20,
+            max_results=10,
             days=days_map[frequency],
         )
 
