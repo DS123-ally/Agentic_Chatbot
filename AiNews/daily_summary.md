@@ -1,0 +1,10 @@
+# Daily AI News Summary
+
+### 2026-04-11
+- AI-driven semiconductor companies in Asia are driving innovation with high-performance chips and memory, especially in data centers and advanced computing. [https://www.analyticsinsight.net/amp/story/companies/top-10-semiconductor-companies-in-asia-in-2026](https://www.analyticsinsight.net/amp/story/companies/top-10-semiconductor-companies-in-asia-in-2026)
+
+### 2026-04-10
+- Nightfood Holdings Inc. (OTCQB: NGTF) brings AI-enabled robotics platform to growing pharma manufacturing space. [https://www.manilatimes.net/2026/04/10/tmt-newswire/globenewswire/nightfood-holdings-inc-otcqb-ngtf-brings-ai-enabled-robotics-platform-to-growing-pharma-manufacturing-space/2318023](https://www.manilatimes.net/2026/04/10/tmt-newswire/globenewswire/nightfood-holdings-inc-otcqb-ngtf-brings-ai-enabled-robotics-platform-to-growing-pharma-manufacturing-space/2318023)
+- Gross Domestic Intelligence (GDI) is a new way to measure economies in the AI era, focusing on AI resources and access to AI compute infrastructure. [https://www.businessinsider.com/gdi-measure-economic-power-ai-era-gdp-2026-4](https://www.businessinsider.com/gdi-measure-economic-power-ai-era-gdp-2026-4)
+- IndustryWeek Operations Leadership Summit Scheduled for October in South Carolina, focusing on operational excellence, continuous improvement, and industrial safety. [https://www.industryweek.com/the-economy/article/55370106/erasing-the-manufacturing-extension-partnership-and-is-a-chip-armageddon-looming](https://www.industryweek.com/the-economy/article/55370106/erasing-the-manufacturing-extension-partnership-and-is-a-chip-armageddon-looming)
+- Gen Z workers aren't enthusiastic about the artificial intelligence revolution, with nearly half admitting to sabotaging their company's AI efforts intentionally. [https://www.newsweek.com/gen-z-rebelling-against-ai-at-work-11810910](https://www.newsweek.com/gen-z-rebelling-against-ai-at-work-11810910)
